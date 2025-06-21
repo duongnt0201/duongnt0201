@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ngduong2101) 
 [![CV](https://img.shields.io/badge/My%20CV%20%2F%20Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1AqcnGYjQPv4E0O7DgWCqOCLEDzq_zkai/view?usp=sharing)
 
-# 💻Tech Stack
+# 💻Technical Skills
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -24,7 +24,16 @@
 ## 🎯 About Me
 2+ years of experience in data-driven **E-commerce** growth. Proficient in **Excel** and **Power BI** for data analysis, reporting, and campaign optimization. Familiar with **SQL** for querying and data handling through coursework and personal projects. Eager to leverage analytical skills to generate insights and support business decision-making.
 
+## 🎓 Education & Certifications
+**Bachelor of E-commerce** – NEU University (GPA 8.11)  
+**Certifications**  
+- **PL-300: Power BI Data Analyst Associate**
+- **HackerRank SQL Certification**
+- **Google Data Analytics**
+- **TOEIC 900**
+
 ---
+
 ## 📊 Featured Projects
 
 ### [8 Week SQL Challenge | Case Study #2 - Pizza Runner | SQL, MySQL](https://github.com/duongnt0201/8_Week_SQL_Challenge)  
