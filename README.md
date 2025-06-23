@@ -25,8 +25,9 @@
 2+ years of experience in data-driven **E-commerce** growth. Proficient in **Excel** and **Power BI** for data analysis, reporting, and campaign optimization. Familiar with **SQL** for querying and data handling through coursework and personal projects. Eager to leverage analytical skills to generate insights and support business decision-making.
 
 ## 🎓 Education & Certifications
-**Bachelor of E-commerce** – NEU University (GPA 8.11)  
-**Certifications**  
+**Bachelor of E-commerce** – NEU University (GPA 8.11) 
+
+### Certifications
 - **PL-300: Power BI Data Analyst Associate**
 - **HackerRank SQL Certification**
 - **Google Data Analytics**
