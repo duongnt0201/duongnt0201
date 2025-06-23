@@ -43,10 +43,11 @@ Danny was sold on the idea, but he knew that pizza alone was not going to help h
 
 ---
 
-### [8 Week SQL Challenge | Case Study #2 - Pizza Runner | SQL, MySQL](https://github.com/duongnt0201/8_Week_SQL_Challenge)  
-Danny was scrolling through his Instagram feed when something really caught his eye - “80s Retro Styling and Pizza Is The Future!”
+### [Amazon Ads Performance Dashboard | Automotive Category | Google Colab, Power BI](https://github.com/duongnt0201/Amazon-PowerBI-Dashboard.git)
 
-Danny was sold on the idea, but he knew that pizza alone was not going to help him get seed funding to expand his new Pizza Empire - so he had one more genius idea to combine with it - he was going to Uberize it - and so Pizza Runner was launched!
+The automotive market on Amazon is highly competitive, with advertising playing a critical role in driving product visibility and sales. 
+
+This project analyzes advertising effectiveness, sales performance, and product trends in the automotive category, providing a comprehensive Power BI dashboard to support smarter marketing and budget decisions for digital teams.
 
 ---
 
