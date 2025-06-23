@@ -2,9 +2,9 @@
 **Data Analyst | E-commerce Background**  
 📍 Ha Noi | 088 6794 173 | 📧 ngduong.fwork@gmail.com 
 
-## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ngduong2101) 
 [![CV](https://img.shields.io/badge/My%20CV%20%2F%20Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1AqcnGYjQPv4E0O7DgWCqOCLEDzq_zkai/view?usp=sharing)
+
 
 # 💻Technical Skills
 
