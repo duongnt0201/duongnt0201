@@ -4,7 +4,7 @@
 📍 Ha Noi | 📧 ngduong.fwork@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ngduong2101)
-[![CV](https://img.shields.io/badge/My%20CV%20%2F%20Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/15nEYKj2XeZdQ-e_HVv7EfDOh2ips752J/view?usp=sharing)
+[![CV](https://img.shields.io/badge/My%20CV%20%2F%20Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1AqcnGYjQPv4E0O7DgWCqOCLEDzq_zkai/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duongnt0201)
 
 ---
@@ -67,10 +67,19 @@ Skilled in **SQL, Power BI, DAX, Power Query, Data Modeling**, and report optimi
 
 ## 📊 Featured Projects
 
-### [Power BI Refresh Automation System | Python, Telegram Bot, Power BI API](https://github.com/duongnt0201/powerbi-refresh-monitor)
-Telegram-based automation system to refresh and monitor Power BI reports via chat.
-- Integrated **AI function-calling** to interpret natural language requests
-- Designed workspace-based access control and standardized report IDs
+### [Power BI Refresh Monitor | Python, Flask, Power BI API, SQLite](https://github.com/duongnt0201/powerbi-refresh-monitor)
+Real-time web monitoring dashboard and background data pipeline for tracking Power BI datasets.
+- Built a Flask web server and responsive dashboard (Obsidian Pulse UI) to monitor 144+ datasets in real-time
+- Developed a background collector to fetch status history, auto-deduplicate, and store logs in SQLite
+- Integrated a Parquet data pipeline to sync historical logs directly into a Power BI Desktop analytical report
+- **Tools:** Python, Flask, MSAL (Device Code Flow), SQLite, Pandas, PyArrow, HTML/CSS/JS
+
+---
+
+### [Power BI Telegram Bot | Python, Telegram API, Power BI API](https://github.com/duongnt0201)
+Telegram-based automation system to refresh and monitor Power BI reports directly via chat.
+- Integrated **AI function-calling** to interpret natural language requests and route them to API actions (/list, /status, /refresh)
+- Designed workspace-based access control and standardized report IDs for secure, accurate execution
 - **Tools:** Python, Telegram Bot API, Power BI REST API, AI Function Calling, SQLite
 
 ---
@@ -80,7 +89,7 @@ All code submissions for the **#8WeekSQLChallenge** — covering real-world SQL 
 
 ---
 
-### [Amazon Ads Performance Dashboard | Google Colab, Power BI](https://github.com/duongnt0201/Amazon-PowerBI-Dashboard)
+### [Amazon Ads Performance Dashboard | Google Colab, Power BI](https://github.com/duongnt0201/Amazon-PowerBI-Dashboard.git)
 Power BI dashboard analyzing advertising effectiveness and sales performance in the automotive category.
 - Automated daily data collection using **Google Colab, Pandas, NumPy** → reduced manual cleaning by **50%**
 - Reduced monitoring workload by **35%**, contributed to **1.59% ACoS reduction**
