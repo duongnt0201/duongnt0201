@@ -29,7 +29,7 @@
 
 ### Certifications
 - **PL-300: Power BI Data Analyst Associate**
-- **HackerRank SQL Certification**
+- **HackerRank SQL (Advanced) Certification**
 - **Google Data Analytics**
 - **TOEIC 900**
 
