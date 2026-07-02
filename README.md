@@ -67,7 +67,7 @@ Skilled in **SQL, Power BI, DAX, Power Query, Data Modeling**, and report optimi
 
 ## 📊 Featured Projects
 
-### [Power BI Refresh Automation System | Python, Telegram Bot, Power BI API](https://github.com/duongnt0201)
+### [Power BI Refresh Automation System | Python, Telegram Bot, Power BI API](https://github.com/duongnt0201/powerbi-refresh-monitor)
 Telegram-based automation system to refresh and monitor Power BI reports via chat.
 - Integrated **AI function-calling** to interpret natural language requests
 - Designed workspace-based access control and standardized report IDs
@@ -80,7 +80,7 @@ All code submissions for the **#8WeekSQLChallenge** — covering real-world SQL 
 
 ---
 
-### [Amazon Ads Performance Dashboard | Google Colab, Power BI](https://github.com/duongnt0201/Amazon-PowerBI-Dashboard.git)
+### [Amazon Ads Performance Dashboard | Google Colab, Power BI](https://github.com/duongnt0201/Amazon-PowerBI-Dashboard)
 Power BI dashboard analyzing advertising effectiveness and sales performance in the automotive category.
 - Automated daily data collection using **Google Colab, Pandas, NumPy** → reduced manual cleaning by **50%**
 - Reduced monitoring workload by **35%**, contributed to **1.59% ACoS reduction**
