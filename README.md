@@ -4,7 +4,7 @@
 📍 Ha Noi | 📧 ngduong.fwork@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ngduong2101)
-[![CV](https://img.shields.io/badge/My%20CV%20%2F%20Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1AqcnGYjQPv4E0O7DgWCqOCLEDzq_zkai/view?usp=sharing)
+[![CV](https://img.shields.io/badge/My%20CV%20%2F%20Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/15nEYKj2XeZdQ-e_HVv7EfDOh2ips752J/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duongnt0201)
 
 ---
