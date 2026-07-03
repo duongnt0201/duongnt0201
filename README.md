@@ -76,7 +76,7 @@ Real-time web monitoring dashboard and background data pipeline for tracking Pow
 
 ---
 
-### [Power BI Telegram Bot | Python, Telegram API, Power BI API](https://github.com/duongnt0201)
+### [Power BI Telegram Bot | Python, Telegram API, Power BI API](https://github.com/duongnt0201/powerbi-telegram-bot)
 Telegram-based automation system to refresh and monitor Power BI reports directly via chat.
 - Integrated **AI function-calling** to interpret natural language requests and route them to API actions (/list, /status, /refresh)
 - Designed workspace-based access control and standardized report IDs for secure, accurate execution
